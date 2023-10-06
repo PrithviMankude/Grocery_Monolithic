@@ -1,0 +1,5 @@
+username: prithvimramesh
+password: WYMcoGpMAiNxLN2M
+connString: mongodb+srv://prithvimramesh:<password>@cluster0.ep0c67l.mongodb.net/?retryWrites=true&w=majority
+
+

@@ -1,0 +1,26 @@
+//Study ErrorHandler
+
+
+//Details
+cust1@gmail.com secret
+id: 64ec8d438e789aac2b91a6c7
+token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN1c3QxQGdtYWlsLmNvbSIsIl9pZCI6IjY0ZWM4ZDQzOGU3ODlhYWMyYjkxYTZjNyIsImlhdCI6MTY5MzIyNTAwNywiZXhwIjoxNjk1ODE3MDA3fQ.JH677WzmA_f6108phN6MfiyiJMsKUmbWPoYoYcejFpw"
+
+
+
+//Detals Products
+Id: 64ec87f509509a46b4110fc0
+    64ec880009509a46b4110fc2
+    
+
+User details:
+user1@gmail.com 
+secret
+123456
+_id: 6516b8622902875acf68c161
+"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXIxQGdtYWlsLmNvbSIsIl9pZCI6IjY1MTZiODYyMjkwMjg3NWFjZjY4YzE2MSIsImlhdCI6MTY5NTk4NzgxMCwiZXhwIjoxNjk4NTc5ODEwfQ.nKwWUtWIUjhAleP30NnmkQRv6ItslQEqCsbY5fZpzpw"
+
+Login:
+user1@gmail.com
+"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXIxQGdtYWlsLmNvbSIsIl9pZCI6IjY1MTZiODYyMjkwMjg3NWFjZjY4YzE2MSIsImlhdCI6MTY5NTk4NzkxNCwiZXhwIjoxNjk4NTc5OTE0fQ.8MnieEQghyoFWZVPF2-wOQBDonwxH0x2hRRs5_qcTJQ"
+
